@@ -124,3 +124,16 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
+.menu-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu-container ul {
+    list-style-type: none;
+}
+
+.menu-container ul li {
+    text-align: left;
+}
