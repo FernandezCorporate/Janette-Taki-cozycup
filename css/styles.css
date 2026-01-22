@@ -148,7 +148,16 @@ footer {
     justify-content: space-evenly;
 }
 
+.samples{
+    transition: margin-top 0.5s ease-in-out;
+}
+
 .samples img{
     height: 300px;
     width: 300px;
+    border-radius: 10px;
+}
+
+.samples:hover{
+    margin-top: -30px;
 }
