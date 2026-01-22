@@ -1,6 +1,6 @@
 # Project Description
 
-The Jannete and Taki's CozyCup Cafe website serves as a web-based extension of the physical cafe's warm and rustic atmosphere. It is designed to reach to a wider audience, especially to coffee enthusiast's around the world.
+The Jannete and Taki's CozyCup Cafe website serves as a web-based extension of the physical cafe's warm and rustic atmosphere. It is designed to reach to a wider audience, especially to coffee enthusiast's around the world. Janette and Taki were derived from the Mobile Legends' in-game names of Allen Fernandez and Eli Arnejo respectively.
 
 # Features
 
@@ -35,5 +35,26 @@ These set of images highlight some of the Cafe's best-sellers, incorporated with
 
 Lastly are the About Us and Contact Us sections of the website containing background details about the Cafe and its owners.
 
+# About the Authors
+<img src="img/Allen.jpg" width=150 style="border-radius: 50%;">
 
+<br>
+
+**Name:** Allen Glenn Flojemon Fernandez  
+**Email:** allenglennfernandez04@gmail.com  
+
+<img src="img/Github_black.png" width=30 height=30 href="https://github.com/FernandezCorporate">
+<img src="img/Facebook_black.png" width=30 height=30 href="https://www.facebook.com/allenglenn.fernandez.5">
+
+<br>
+
+<img src="img/Eli.jpg" width=150 style="border-radius: 50%;">
+
+<br>
+
+**Name:** Eli Karl Torres Arnejo  
+**Email:** arnejoelikarl@gmail.com  
+
+<img src="img/Github_black.png" width=30 height=30 href="https://github.com/ihlay">
+<img src="img/Facebook_black.png" width=30 height=30 href="https://www.facebook.com/ihlayy">
 
