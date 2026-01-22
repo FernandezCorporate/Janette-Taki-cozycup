@@ -43,8 +43,12 @@ Lastly are the About Us and Contact Us sections of the website containing backgr
 **Name:** Allen Glenn Flojemon Fernandez  
 **Email:** allenglennfernandez04@gmail.com  
 
-<img src="img/Github_black.png" width=30 height=30 href="https://github.com/FernandezCorporate">
-<img src="img/Facebook_black.png" width=30 height=30 href="https://www.facebook.com/allenglenn.fernandez.5">
+<a href="https://github.com/FernandezCorporate">
+    <img src="img/Github_black.png" width=30 height=30>
+</a>
+<a href="https://www.facebook.com/allenglenn.fernandez.5">
+    <img src="img/Facebook_black.png" width=30 height=30 >
+</a>
 
 <br>
 
@@ -55,6 +59,11 @@ Lastly are the About Us and Contact Us sections of the website containing backgr
 **Name:** Eli Karl Torres Arnejo  
 **Email:** arnejoelikarl@gmail.com  
 
-<img src="img/Github_black.png" width=30 height=30 href="https://github.com/ihlay">
-<img src="img/Facebook_black.png" width=30 height=30 href="https://www.facebook.com/ihlayy">
+<a href="https://github.com/ihlay">
+    <img src="img/Github_black.png" width=30 height=30>
+</a>
+<a href="https://www.facebook.com/ihlayy">
+    <img src="img/Facebook_black.png" width=30 height=30 >
+</a>
+
 
