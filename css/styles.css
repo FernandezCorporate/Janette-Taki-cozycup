@@ -52,12 +52,12 @@ nav a:hover {
 }
 
 .hero h1 {
-    font-size: 36px;
+    font-size: 50px;
     margin-bottom: 20px;
 }
 
 .hero p {
-    font-size: 18px;
+    font-size: 30px;
     margin-bottom: 40px;
 }
 
@@ -136,4 +136,8 @@ footer {
 
 .menu-container ul li {
     text-align: left;
+}
+
+.menu li {
+    font-size: 20px;
 }
